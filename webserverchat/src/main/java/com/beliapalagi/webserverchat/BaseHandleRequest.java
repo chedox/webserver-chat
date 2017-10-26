@@ -14,7 +14,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  *
- * @author rendr
+ * @author chedox
  */
 @Controller
 public class BaseHandleRequest {
